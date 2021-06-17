@@ -1255,6 +1255,17 @@ audio {
 	opacity: 0.5;
 	z-index: 9999;
 }
+
+.photo1 {
+    text-align: center;
+    display: none;
+}
+
+.photo2 {
+    text-align: center;
+    display: none;
+}
+
 .control-panel {
 	position: fixed;
 	bottom: 0;
